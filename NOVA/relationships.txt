@@ -1,0 +1,16 @@
+Milan|Iliev|Marcus|Fenix
+Milan|Iliev|John|Smith
+Marcus|Fenix|John|Smith
+Marcus|Fenix|David|Walkerton
+John|Smith|Mary|Jones
+John|Smith|Milan|Iliev
+John|Smith|Rebecca|Flour
+Mary|Jones|Milan|Iliev
+Mary|Jones|John|Smith
+Mary|Jones|Marcus|Fenix
+David|Walkerton|Marcus|Fenix
+David|Walkerton|Rebecca|Flour
+Rebecca|Flour|Mary|Jones
+Rebecca|Flour|David|Walkerton
+David|Walkerton|Dorothy|Keener
+Milan|Iliev|David|Walkerton
